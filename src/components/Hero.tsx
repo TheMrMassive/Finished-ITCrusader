@@ -31,7 +31,7 @@ export default function Hero() {
         </div>
 
         <p className="text-gray-300 text-lg md:text-xl max-w-3xl mx-auto mb-8 leading-relaxed">
-          If you don't have time in your day to deal with tech problems such as WiFi troubles, virus removal, or data recovery, you're in the right place. I'll get it sorted for you.
+          If you don't have time in your day to deal with tech problems such as WiFi troubles, virus removal, or data recovery, you're in the right place. I'll get it fixed for you.
         </p>
 
         <div className="mb-12 flex justify-center">
